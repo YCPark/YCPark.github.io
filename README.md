@@ -18,3 +18,7 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 [^1]: Requires Bundler. Install with `gem install bundler`.
 
 [download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+
+
+# 2022.11.01 
+https://prose.io/  is working well.
