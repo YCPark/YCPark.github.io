@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise", "contrast"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -113,11 +113,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Work Hard Coder"
   location         : "Inchoen Korea"
-  email            :
+  email            : "pyonc@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pyonc@naver.com"
+      #url: "mailto:pyonc@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -295,3 +295,5 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
