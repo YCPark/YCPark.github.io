@@ -4,18 +4,18 @@ main:
     url: "/"
   - title: "Introduce"
     url: "/about/"
+  - title: "Tags"
+    url: /tags/
+  - title: "Year"
+    url: /year-archive/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  # - title: "Tags"
-  #   url: /tags/
 
 docs:
 #  - title: DataBase
