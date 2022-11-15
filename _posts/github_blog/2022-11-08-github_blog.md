@@ -36,15 +36,14 @@ blog 개설부터 포스팅 및 각종 플러그인 등을 활용함에 있어 �
 
 
 ## Serve 실행
-
 1. window - cmd 실행   
-
 2. blog 코드 경로에서 하위 문장 실행
+
 ```
 bundle exec jekyll serve
 ```
 
-- 실행결과
+실행결과
 ![bundle exec jekyll serve](/assets/images/posts/bundle_exec_jekyll_serve.JPG)
 
 ---
