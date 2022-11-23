@@ -44,7 +44,7 @@ bundle exec jekyll serve
 ```
 
 실행결과
-![bundle exec jekyll serve](/assets/images/posts/bundle_exec_jekyll_serve.JPG)
+![bundle exec jekyll serve](/assets/images/posts/github_blog/bundle_exec_jekyll_serve.JPG)
 
 ---
 
